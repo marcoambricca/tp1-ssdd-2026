@@ -1,0 +1,6 @@
+instante/accion|doutA	|doutB	|R2
+""		|'0	|'0	|d'20
+		|'0	|'0	|d'20
+		|d'20	|d'20	|d'20
+		|d'20	|d'20	|d'99
+		|d'99	|d'99	|d'99
